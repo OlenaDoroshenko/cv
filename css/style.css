@@ -7,7 +7,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background: #f5f7fa;
-  padding: 40px;
+  /* padding: 40px; */
 }
 
 .wrapper {
@@ -18,8 +18,8 @@ body {
 .sidebar {
   background: #1e2939;
   width: 370px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 44px;
+  padding-bottom: 44px;
 }
 
 .my-photo {
@@ -117,6 +117,7 @@ body {
   font-size: 45px;
   font-weight: 700;
   line-height: 75px;
+  margin-bottom: 16px;
 }
 
 .main-text {
@@ -169,7 +170,7 @@ body {
 }
 
 .work-experience {
-  margin-bottom: 31px;
+  margin-bottom: 30px;
 }
 
 .experience-header {
@@ -215,7 +216,7 @@ body {
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
-  margin-bottom: 11px;
+  margin-bottom: 25px;
 }
 
 .education-list {
